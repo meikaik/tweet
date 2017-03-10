@@ -1,0 +1,15 @@
+one:
+  follower: meikai
+  followed: lana
+
+two:
+  follower: meikai
+  followed: malory
+
+three:
+  follower: lana
+  followed: meikai
+
+four:
+  follower: archer
+  followed: meikai
